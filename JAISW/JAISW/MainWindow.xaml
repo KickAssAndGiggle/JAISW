@@ -1,0 +1,12 @@
+﻿<Window x:Name="wind" x:Class="JAISW.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:JAISW"
+        mc:Ignorable="d"
+        Title="Jordan's Adventures In Storm Land" Height="640" Width="818" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Canvas x:Name="canv" Width="800" Height="600">
+
+    </Canvas>
+</Window>
