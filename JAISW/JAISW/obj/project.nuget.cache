@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kper0/Uyi3zJuA87CZdv/k04+17POmiaM0Lv/j4OqxQKcDPT3RSDkDjR/ZqJfDHVZ2TqXChwX6esRwHtSMoRFw==",
+  "dgSpecHash": "f+YTBzZwOo5s/VE5bcPF0n3/ecQMkqwds4BCSgQhc8//7tP6TlPkPvvb8PluAr9fQyS3Rg96hItiMFvdNyoBAg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\russe\\Desktop\\JAISW\\JAISW\\JAISW.csproj",
+  "projectFilePath": "C:\\JAISW\\JAISW\\JAISW\\JAISW\\JAISW.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\russe\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
     "C:\\Users\\russe\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
